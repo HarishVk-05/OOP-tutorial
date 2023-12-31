@@ -1,0 +1,4 @@
+syntax for creating an object
+objectname = classname() 
+eg: L = list()
+constructor is a special function which executes automatically whenever we create an object 
